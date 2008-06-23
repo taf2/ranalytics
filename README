@@ -1,0 +1,13 @@
+Merb Very Flat
+==============
+
+An example of a single file Merb application.
+
+Start with
+
+  merb -I analytics.rb
+
+
+Prereques:
+
+I use memcachedb to store the analytics data
